@@ -56,4 +56,4 @@ MIT
 
 ## Author
 
-[Tu Nombre]
+Jawy Romero
